@@ -1,0 +1,5 @@
+Revision history for Perl extension HTML::FormHandler::Email.
+
+0.01  Wed Jul 21 06:25:09 2010
+	- original version; created by h2xs 1.23 with options
+		-AXn HTML::FormHandler::Email
